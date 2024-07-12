@@ -1,4 +1,4 @@
-module github.com/rolig/univer/grpc/proto
+module github.com/rooslunn/proto
 
 go 1.22.5
 
